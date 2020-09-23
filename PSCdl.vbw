@@ -1,0 +1,9 @@
+Form1 = 44, 44, 613, 353, C, 22, 22, 591, 331, C
+modApiFileHandle = 88, 88, 657, 397, C
+basAlwaysOnTop = 0, 0, 0, 0, C
+modDLfromInternet = 0, 0, 0, 0, C
+clsDownload = 154, 154, 723, 463, C
+modSaveTextFile = 66, 66, 732, 375, C
+modIniFile = 0, 0, 0, 0, C
+Form2 = 44, 44, 613, 353, C, 22, 22, 591, 331, C
+modStringTrim = 154, 154, 723, 463, C
